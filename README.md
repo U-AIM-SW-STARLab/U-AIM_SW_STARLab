@@ -71,8 +71,8 @@ Trung Xuan Pham, Jin Woong Choi, Rusty John Lloyd Mina, Thanh Nguyen, Sultan Riz
 
 [5. Survival Analysis of COVID-19 Patients With Symptoms Information by Machine Learning Algorithms](https://ieeexplore.ieee.org/document/9794670) <br/>
 Gwangsu Kim, Chang D. Yoo, Seong J. Yang., IEEE Access 2022 <br/>
-[[Paper]](https://ieeexplore.ieee.org/document/9794670)
-[[Dataset](https://ieee-dataport.org/documents/survcovid19)]]
+[[Paper](https://ieeexplore.ieee.org/document/9794670)]
+[[Dataset](https://ieee-dataport.org/documents/survcovid19)]
 
 [6. DimCL: Dimensional Contrastive Learning For Improving Self-Supervised Learning](https://ieeexplore.ieee.org/document/10014996) <br/>
 Thanh Nguyen*, Trung Pham*, Chaoning Zhang, Tung Luu, Thang Vu, Chang D. Yoo., IEEE Access 2023 <br/>
