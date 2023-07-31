@@ -14,13 +14,13 @@ Junghyun Lee, Gwangsu Kim, Matt Olfat, Mark Hasegawa-Johnson, Chang D. Yoo. in A
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/nick-jhlee/fair-manifold-pca)
 [![Star](https://img.shields.io/github/stars/nick-jhlee/fair-manifold-pca.svg?style=social&label=Star)](https://github.com/nick-jhlee/fair-manifold-pca)
 
-3. SoftGroup for 3D Instance Segmentation on Point Clouds <br/>
+2. SoftGroup for 3D Instance Segmentation on Point Clouds <br/>
 Thang Vu, Kookhoi Kim, Tung Luu, Thanh Nguyen, Chang D. Yoo., Computer Vision and Pattern Recognition (CVPR) 2022, [Oral presentation (top 4%)] <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2203.01509-b31b1b.svg)](https://arxiv.org/abs/2203.01509)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/thangvubk/SoftGroup)
 [![Star](https://img.shields.io/github/stars/thangvubk/SoftGroup.svg?style=social&label=Star)](https://github.com/thangvubk/SoftGroup)
 
-4. Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue <br/>
+3. Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue <br/>
 Sunjae Yoon, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim and Chang D. Yoo, The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. (Long Paper) <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2212.05765-b31b1b.svg)](https://arxiv.org/abs/2212.05765)
 
