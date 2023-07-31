@@ -63,7 +63,7 @@ Sunjae Yoon, Dahyun Kim, Junyeong Kim and Chang D. Yoo., IEEE Access 2022 <br/>
 
 6. LAD: A Hybrid Deep Learning System for Benign Paroxysmal Positional Vertigo Disorders Diagnostic <br/>
 Trung Xuan Pham, Jin Woong Choi, Rusty John Lloyd Mina, Thanh Nguyen, Sultan Rizky Madjid, and Chang D. Yoo, IEEE Access 2022 <br/>
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]https://arxiv.org/abs/2210.08282
+[![arXiv](https://img.shields.io/badge/arXiv-2210.08282-b31b1b.svg)](https://arxiv.org/abs/2210.08282)
 
 8. Survival Analysis of COVID-19 Patients With Symptoms Information by Machine Learning Algorithms <br/>
 Gwangsu Kim, Chang D. Yoo, Seong J. Yang., IEEE Access 2022 <br/>
