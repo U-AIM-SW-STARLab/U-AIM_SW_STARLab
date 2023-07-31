@@ -56,6 +56,8 @@ Tung Luu, Thanh Nguyen, Thang Vu and Chang D. Yoo., IEEE Access 2022 <br/>
 2. Dual-scale Doppler Attention for Human Identification <br/>
 Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Chang D. Yoo, Sensors 2022 <br/>
 [Paper](https://www.mdpi.com/1424-8220/22/17/6363)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/DSDA)
+[![Star](https://img.shields.io/github/stars/dbstjswo505/DSDA.svg?style=social&label=Star)](https://github.com/dbstjswo505/DSDA)
 
 4. Cascaded MPN: Cascaded Moment Proposal Network for Video Corpus Moment Retrieval <br/>
 Sunjae Yoon, Dahyun Kim, Junyeong Kim and Chang D. Yoo., IEEE Access 2022 <br/>
@@ -64,11 +66,15 @@ Sunjae Yoon, Dahyun Kim, Junyeong Kim and Chang D. Yoo., IEEE Access 2022 <br/>
 6. LAD: A Hybrid Deep Learning System for Benign Paroxysmal Positional Vertigo Disorders Diagnostic <br/>
 Trung Xuan Pham, Jin Woong Choi, Rusty John Lloyd Mina, Thanh Nguyen, Sultan Rizky Madjid, and Chang D. Yoo, IEEE Access 2022 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2210.08282-b31b1b.svg)](https://arxiv.org/abs/2210.08282)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/trungpx/lad)
+[![Star](https://img.shields.io/github/stars/trungpx/lad.svg?style=social&label=Star)](https://github.com/trungpx/lad)
 
 8. Survival Analysis of COVID-19 Patients With Symptoms Information by Machine Learning Algorithms <br/>
 Gwangsu Kim, Chang D. Yoo, Seong J. Yang., IEEE Access 2022 <br/>
 [Paper](https://ieeexplore.ieee.org/document/9794670)
+[Dataset](https://ieee-dataport.org/documents/survcovid19)
 
-9. DimCL: Dimensional Contrastive Learning For Improving Self-Supervised Learning <br/>
+10. DimCL: Dimensional Contrastive Learning For Improving Self-Supervised Learning <br/>
 Thanh Nguyen*, Trung Pham*, Chaoning Zhang, Tung Luu, Thang Vu, Chang D. Yoo., IEEE Access 2023 <br/>
 [Paper](https://ieeexplore.ieee.org/document/10014996)
+
