@@ -47,13 +47,20 @@ Younghwan Lee, Tung M. Luu, Donghoon Lee, Chang D. Yoo, The International Confer
 Eunseop Yoon, Hee Suk Yoon, John Harvill, Mark Hasegawa-Johnson, Chang D. Yoo, The International Speech Communication Association (INTERSPEECH) 2024. <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2109.11196-b31b1b.svg)](https://arxiv.org/abs/2408.05769)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)] (Comming soon!)
-[2023]
 
 - [BI-MDRG: Bridging Image History in Multimodal Dialogue Response Generation](https://arxiv.org/abs/2408.05926) <br/>
-Thang Vu, Kookhoi Kim, Tung Luu, Thanh Nguyen, Chang D. Yoo., European Conference on Computer Vision (ECCV) 2024, <br/>
+Hee Suk Yoon, Eunseop Yoon, Joshua Tian Jin Tee, Kang Zhang, Yu-Jung Heo, Du-Seong Chang, Chang D. Yoo., European Conference on Computer Vision (ECCV) 2024, <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2203.01509-b31b1b.svg)](https://arxiv.org/abs/2408.05926)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/hee-suk-yoon/BI-MDRG)
 [![Star](https://img.shields.io/github/stars/hee-suk-yoon/BI-MDRG.svg?style=social&label=Star)](https://github.com/hee-suk-yoon/BI-MDRG)
+
+- [DNI: Dilutional Noise Initialization for Diffusion Video Editing](https://arxiv.org/abs/2409.13037) <br/>
+Sunjae Yoon, Gwanhyeong Koo, Ji Woo Hong, Chang D. Yoo, European Conference on Computer Vision (ECCV) 2024. <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2203.01509-b31b1b.svg)](https://arxiv.org/abs/2409.13037)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/DNI)
+[![Star](https://img.shields.io/github/stars/dbstjswo505/DNI.svg?style=social&label=Star)](https://github.com/dbstjswo505/DNI)
+
+[2023]
 
 [2022]
 - [Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo](https://arxiv.org/abs/2203.17248) <br/>
