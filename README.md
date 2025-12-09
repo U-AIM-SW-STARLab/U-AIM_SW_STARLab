@@ -40,10 +40,16 @@ Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  Internat
 [![Star](https://img.shields.io/github/stars/kookie12/FlowDrag.svg?style=social&label=Star)](https://github.com/kookie12/FlowDrag)
 
 - [Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models](https://www.arxiv.org/abs/2506.12822) <br/>
-Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025, [Spotlight (top 2.6%)] <br/>
+Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2506.12822-b31b1b.svg)](https://www.arxiv.org/abs/2506.12822)
-[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/plare)
-[![Star](https://img.shields.io/github/stars/tunglm2203/plare.svg?style=social&label=Star)](https://github.com/tunglm2203/plare)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/erlvlm)
+[![Star](https://img.shields.io/github/stars/tunglm2203/erlvlm.svg?style=social&label=Star)](https://github.com/tunglm2203/erlvlm)
+
+- [Occlusion-robust Stylization for Drawing-based 3D Animation](https://arxiv.org/abs/2508.00398) <br/>
+Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Computer Vision (ICCV) 2025 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2508.00398-b31b1b.svg)](https://arxiv.org/abs/2508.00398)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/OSF)
+[![Star](https://img.shields.io/github/stars/dbstjswo505/OSF.svg?style=social&label=Star)](https://github.com/dbstjswo505/OSF)
 
 [2024]
 - [SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation](https://arxiv.org/abs/2312.05790) <br/>
