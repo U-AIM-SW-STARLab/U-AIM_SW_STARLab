@@ -8,6 +8,43 @@
 - [국제 학술 대회 실적](#국제-학술-대회-실적)
 
 ### 📢 최우수 논문 실적
+[2025]
+- [Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models](https://arxiv.org/abs/2507.04976) <br/>
+Eunseop Yoon, Hee Suk Yoon, Mark A. Hasegawa-Johnson, Chang D. Yoo, Chang D. Yoo.  International Conference on Learning Representations (ICLR) 2025 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2312.05790-b31b1b.svg)](https://arxiv.org/abs/2507.04976)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/EsYoon7/UVQA)
+[![Star](https://img.shields.io/github/stars/EsYoon7/UVQA.svg?style=social&label=Star)](https://github.com/EsYoon7/UVQA)
+
+- [MDSGen: Fast and Efficient Masked Diffusion Temporal-Aware Transformers for Open-Domain Sound Generation](https://arxiv.org/abs/2410.02130) <br/>
+Trung X. Pham, Tri Ton, Chang D. Yoo.  International Conference on Learning Representations (ICLR) 2025 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2410.02130-b31b1b.svg)](https://arxiv.org/abs/2410.02130)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/triton99/MDSGen)
+[![Star](https://img.shields.io/github/stars/triton99/MDSGen.svg?style=social&label=Star)](https://github.com/triton99/MDSGen)
+
+- [ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](https://arxiv.org/abs/2503.20418) <br/>
+Ji Woo Hong, Tri Ton, Trung X. Pham, Gwanhyeong Koo, Sunjae Yoon, Chang D. Yoo.  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2503.20418-b31b1b.svg)](https://arxiv.org/abs/2503.20418)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/jiwoohong93/ita-mdt_code)
+[![Star](https://img.shields.io/github/stars/jiwoohong93/ita-mdt_code.svg?style=social&label=Star)](https://github.com/jiwoohong93/ita-mdt_code)
+
+- [ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Preference Optimization](https://arxiv.org/abs/2507.04976) <br/>
+Hee Suk Yoon, Eunseop Yoon, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2507.04976-b31b1b.svg)](https://arxiv.org/abs/2507.04976)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/hee-suk-yoon/ConfPO)
+[![Star](https://img.shields.io/github/stars/hee-suk-yoon/ConfPO.svg?style=social&label=Star)](https://github.com/hee-suk-yoon/ConfPO)
+
+- [FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields](https://arxiv.org/abs/2507.08285) <br/>
+Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025, [Spotlight (top 2.6%)] <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2507.08285-b31b1b.svg)](https://arxiv.org/abs/2507.08285)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/kookie12/FlowDrag)
+[![Star](https://img.shields.io/github/stars/kookie12/FlowDrag.svg?style=social&label=Star)](https://github.com/kookie12/FlowDrag)
+
+- [Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models](https://www.arxiv.org/abs/2506.12822) <br/>
+Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025, [Spotlight (top 2.6%)] <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2506.12822-b31b1b.svg)](https://www.arxiv.org/abs/2506.12822)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/plare)
+[![Star](https://img.shields.io/github/stars/tunglm2203/plare.svg?style=social&label=Star)](https://github.com/tunglm2203/plare)
+
 [2024]
 - [SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation](https://arxiv.org/abs/2312.05790) <br/>
 Junghyun Lee, Gwangsu Kim, Matt Olfat, Mark Hasegawa-Johnson, Chang D. Yoo. in AAAI Conference on Artificial Intelligence (AAAI) 2024. <br/>
