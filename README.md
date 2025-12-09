@@ -78,9 +78,6 @@ Thang Vu, Kookhoi Kim, Tung Luu, Thanh Nguyen, Chang D. Yoo., Computer Vision an
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/thangvubk/SoftGroup)
 [![Star](https://img.shields.io/github/stars/thangvubk/SoftGroup.svg?style=social&label=Star)](https://github.com/thangvubk/SoftGroup)
 
-- [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/abs/2212.05765) <br/>
-Sunjae Yoon, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim and Chang D. Yoo, The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. (Long Paper) <br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2212.05765-b31b1b.svg)](https://arxiv.org/abs/2212.05765)
 
 ### 📝  우수 논문 실적
 [2025]
@@ -128,6 +125,7 @@ Sunjae Yoon, Ji Woo Hong, Eunseop Yoon, DaHyun Kim, Junyeong Kim, Hee Suk Yoon, 
 [![Star](https://img.shields.io/github/stars/dbstjswo505/SQuiDNet.svg?style=social&label=Star)](https://github.com/dbstjswo505/SQuiDNet)
 
 
+
 ### 🏋️‍️ SCIE 저널 실적
 [2024]
 - [Causal Localization Network for Radar Human Localization With Micro-Doppler Signature](https://ieeexplore.ieee.org/document/10387441) <br/>
@@ -151,6 +149,8 @@ Trung Xuan Pham, Jin Woong Choi, Rusty John Lloyd Mina, Thanh Nguyen, Sultan Riz
 [![arXiv](https://img.shields.io/badge/arXiv-2210.08282-b31b1b.svg)](https://arxiv.org/abs/2210.08282)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/trungpx/lad)
 [![Star](https://img.shields.io/github/stars/trungpx/lad.svg?style=social&label=Star)](https://github.com/trungpx/lad)
+
+
 
 ### ‍️🏷️ 국제 학술 대회 실적
 [2024]
