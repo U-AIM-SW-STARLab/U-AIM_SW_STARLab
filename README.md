@@ -154,7 +154,11 @@ Trung Xuan Pham, Jin Woong Choi, Rusty John Lloyd Mina, Thanh Nguyen, Sultan Riz
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/trungpx/lad)
 [![Star](https://img.shields.io/github/stars/trungpx/lad.svg?style=social&label=Star)](https://github.com/trungpx/lad)
 
-
+- [Utilizing Skipped Frames in Action Repeats for Improving Sample Efficiency in Reinforcement Learning](https://ieeexplore.ieee.org/document/9793636) <br/>
+Tung M. Luu; Thanh Nguyen; Thang Vu; Chang D. Yoo. IEEE Access 2022 <br/>
+[[Paper](https://ieeexplore.ieee.org/document/9793636)]
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/lsf_idm)
+[![Star](https://img.shields.io/github/stars/tunglm2203/lsf_idm.svg?style=social&label=Star)](https://github.com/tunglm2203/lsf_idm)
 
 ### ‍️🏷️ 국제 학술 대회 실적
 [2024]
@@ -190,11 +194,11 @@ Hee Suk Yoon, Joshua Tian Jin Tee, Eunseop Yoon, Sunjae Yoon, Gwangsu Kim, Yingz
 [![Star](https://img.shields.io/github/stars/hee-suk-yoon/ESD.svg?style=social&label=Star)](https://github.com/hee-suk-yoon/ESD)
 
 [2022]
-- [Forget-free Continual Learning with Winning Subnetworks](https://www.arxiv.org/abs/2506.12822) <br/>
-Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025 <br/>
+- [Forget-free Continual Learning with Winning Subnetworks](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf) <br/>
+Haeyong Kang, Rusty John Lloyd Mina, Sultan Rizky Hikmawan Madjid, Jaehong Yoon, Mark Hasegawa-Johnson, Sung Ju Hwang, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2022 <br/>
 [[Paper](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)]
-[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/erlvlm)
-[![Star](https://img.shields.io/github/stars/tunglm2203/erlvlm.svg?style=social&label=Star)](https://github.com/tunglm2203/erlvlm)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/ihaeyong/WSN)
+[![Star](https://img.shields.io/github/stars/ihaeyong/WSN.svg?style=social&label=Star)](https://github.com/ihaeyong/WSN)
 
 
 ### ‍️⚙️ 기타 소프트웨어
