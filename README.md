@@ -60,6 +60,12 @@ Sunjae Yoon, Gwanhyeong Koo, Ji Woo Hong, Chang D. Yoo, European Conference on C
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/DNI)
 [![Star](https://img.shields.io/github/stars/dbstjswo505/DNI.svg?style=social&label=Star)](https://github.com/dbstjswo505/DNI)
 
+- [FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing](https://arxiv.org/abs/2407.17850) <br/>
+Gwanhyeong Koo, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo, European Conference on Computer Vision (ECCV) 2024. <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2203.01509-b31b1b.svg)](https://arxiv.org/abs/2407.17850)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/kookie12/FlexiEdit)
+[![Star](https://img.shields.io/github/stars/kookie12/FlexiEdit.svg?style=social&label=Star)](https://github.com/kookie12/FlexiEdit)
+
 [2023]
 
 [2022]
