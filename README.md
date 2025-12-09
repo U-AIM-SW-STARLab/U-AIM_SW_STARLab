@@ -200,6 +200,25 @@ Haeyong Kang, Rusty John Lloyd Mina, Sultan Rizky Hikmawan Madjid, Jaehong Yoon,
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/ihaeyong/WSN)
 [![Star](https://img.shields.io/github/stars/ihaeyong/WSN.svg?style=social&label=Star)](https://github.com/ihaeyong/WSN)
 
+[2021]
+- [CCFDM: Sample-efficient Reinforcement Learning Representation Learning with Curiosity Contrastive Forward Dynamics Model](https://arxiv.org/abs/2103.08255) <br/>
+Thanh Nguyen, Tung M. Luu, Thang Vu, Chang D. Yoo.  International Conference on Intelligent Robots and Systems (IROS) 2021 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2103.08255-b31b1b.svg)](https://arxiv.org/abs/2103.08255)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/thanhkaist/CCFDM1)
+[![Star](https://img.shields.io/github/stars/thanhkaist/CCFDM1.svg?style=social&label=Star)](https://github.com/thanhkaist/CCFDM1)
+
+- [Weakly-Supervised Moment Retrieval Network for Video Corpus Moment Retrieval](https://ieeexplore.ieee.org/document/9506218) <br/>
+Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Kookhoi Kim, Chang D. Yoo.  International Conference on Image Processing (ICIP) 2021 <br/>
+[[Paper](https://ieeexplore.ieee.org/document/9506218)]
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/WMRN)
+[![Star](https://img.shields.io/github/stars/dbstjswo505/WMRN.svg?style=social&label=Star)](https://github.com/dbstjswo505/WMRN)
+
+- [SphereRPN: Learning Spheres for High-Quality Region Proposals on 3D Point Clouds Object Detection](https://ieeexplore.ieee.org/document/9506249) <br/>
+Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Kookhoi Kim, Chang D. Yoo.  International Conference on Image Processing (ICIP) 2021 <br/>
+[[Paper](https://ieeexplore.ieee.org/document/9506249)]
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/thangvubk/SphereRPN)
+[![Star](https://img.shields.io/github/stars/thangvubk/SphereRPN.svg?style=social&label=Star)](https://github.com/thangvubk/SphereRPN)
+
 
 ### ‍️⚙️ 기타 소프트웨어
 [2023]
