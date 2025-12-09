@@ -66,6 +66,23 @@ Gwanhyeong Koo, Sunjae Yoon, Ji Woo Hong, Chang D. Yoo, European Conference on C
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/kookie12/FlexiEdit)
 [![Star](https://img.shields.io/github/stars/kookie12/FlexiEdit.svg?style=social&label=Star)](https://github.com/kookie12/FlexiEdit)
 
+- [Implicit Steganography Beyond the Constraints of Modality](https://arxiv.org/abs/2312.05496) <br/>
+Sojeong Song, Seoyun Yang, Chang D. Yoo, Junmo Kim, European Conference on Computer Vision (ECCV) 2024. <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2109.11196-b31b1b.svg)](https://arxiv.org/abs/2312.05496)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)] (Comming soon!)
+
+- [FRAG: Frequency Adapting Group for Diffusion Video Editing](https://arxiv.org/abs/2406.06044) <br/>
+Sunjae Yoon, Gwanhyeong Koo, Geonwoo Kim, Chang D. Yoo, International Conference on Machine Learning (ICML) 2024. <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2203.01509-b31b1b.svg)](https://arxiv.org/abs/2406.06044)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/FRAG)
+[![Star](https://img.shields.io/github/stars/dbstjswo505/FRAG.svg?style=social&label=Star)](https://github.com/dbstjswo505/FRAG)
+
+- [Cross-view Masked Diffusion Transformers for Person Image Synthesis](https://arxiv.org/abs/2402.01516) <br/>
+Trung X. Pham, Zhang Kang, Chang D. Yoo, International Conference on Machine Learning (ICML) 2024. <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2203.01509-b31b1b.svg)](https://arxiv.org/abs/2402.01516)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/trungpx/xmdpt)
+[![Star](https://img.shields.io/github/stars/trungpx/xmdpt.svg?style=social&label=Star)](https://github.com/trungpx/xmdpt)
+
 [2023]
 
 [2022]
