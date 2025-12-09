@@ -49,6 +49,12 @@ Eunseop Yoon, Hee Suk Yoon, John Harvill, Mark Hasegawa-Johnson, Chang D. Yoo, T
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)] (Comming soon!)
 [2023]
 
+- [BI-MDRG: Bridging Image History in Multimodal Dialogue Response Generation](https://arxiv.org/abs/2408.05926) <br/>
+Thang Vu, Kookhoi Kim, Tung Luu, Thanh Nguyen, Chang D. Yoo., European Conference on Computer Vision (ECCV) 2024, <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2203.01509-b31b1b.svg)](https://arxiv.org/abs/2408.05926)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/hee-suk-yoon/BI-MDRG)
+[![Star](https://img.shields.io/github/stars/hee-suk-yoon/BI-MDRG.svg?style=social&label=Star)](https://github.com/hee-suk-yoon/BI-MDRG)
+
 [2022]
 - [Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo](https://arxiv.org/abs/2203.17248) <br/>
 Chaoning Zhang*, Kang Zhang*, Trung Pham*, Axi Niu, Zhinan Qiao, Chang D. Yoo, In So Kweon. Computer Vision and Pattern Recognition (CVPR) 2022 <br/>
