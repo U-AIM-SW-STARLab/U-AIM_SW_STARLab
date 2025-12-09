@@ -111,6 +111,13 @@ Trung X. Pham, Zhang Kang, Chang D. Yoo, International Conference on Machine Lea
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/trungpx/xmdpt)
 [![Star](https://img.shields.io/github/stars/trungpx/xmdpt.svg?style=social&label=Star)](https://github.com/trungpx/xmdpt)
 
+[2023]
+- [Scene Complexity Aware Network for Weakly-Supervised Video Moment RetrievaL](https://arxiv.org/abs/2310.05241) <br/>
+Sunjae Yoon, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo.  International Conference on Computer Vision (ICCV) 2023 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2310.05241-b31b1b.svg)](https://arxiv.org/abs/2310.05241)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/SCANet)
+[![Star](https://img.shields.io/github/stars/dbstjswo505/SCANet.svg?style=social&label=Star)](https://github.com/dbstjswo505/SCANet)
+
 [2022]
 - [Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo](https://arxiv.org/abs/2203.17248) <br/>
 Chaoning Zhang*, Kang Zhang*, Trung Pham*, Axi Niu, Zhinan Qiao, Chang D. Yoo, In So Kweon. Computer Vision and Pattern Recognition (CVPR) 2022 <br/>
@@ -182,11 +189,6 @@ Hee Suk Yoon, Joshua Tian Jin Tee, Eunseop Yoon, Sunjae Yoon, Gwangsu Kim, Yingz
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/hee-suk-yoon/ESD)
 [![Star](https://img.shields.io/github/stars/hee-suk-yoon/ESD.svg?style=social&label=Star)](https://github.com/hee-suk-yoon/ESD)
 
-- [Scene Complexity Aware Network for Weakly-Supervised Video Moment RetrievaL](https://arxiv.org/abs/2310.05241) <br/>
-Sunjae Yoon, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo.  International Conference on Computer Vision (ICCV) 2023 <br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2310.05241-b31b1b.svg)](https://arxiv.org/abs/2310.05241)
-[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/SCANet)
-[![Star](https://img.shields.io/github/stars/dbstjswo505/SCANet.svg?style=social&label=Star)](https://github.com/dbstjswo505/SCANet)
 
 
 ### ‍️⚙️ 기타 소프트웨어
