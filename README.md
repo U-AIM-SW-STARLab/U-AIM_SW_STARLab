@@ -29,17 +29,17 @@ Sunjae Yoon, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim and Chang D. Yoo, The Conf
 [2025]
 - [Policy Learning from Large Vision-Language Model Feedback without Reward Modeling](https://arxiv.org/abs/2507.23391) <br/>
 Tung M. Luu, Donghoon Lee, Younghwan Lee, Chang D. Yoo, The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025. <br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2109.11196-b31b1b.svg)](https://arxiv.org/abs/2507.23391)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.23391-b31b1b.svg)](https://arxiv.org/abs/2507.23391)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)] (Comming soon!)
 
 - [Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation](https://arxiv.org/abs/2505.11221) <br/>
 Donghoon Lee, Tung M. Luu, Younghwan Lee, Chang D. Yoo, The International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2025. <br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2109.11196-b31b1b.svg)](https://arxiv.org/abs/2505.11221)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.11221-b31b1b.svg)](https://arxiv.org/abs/2505.11221)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)] (Comming soon!)
 
 - [Reward Generation via Large Vision-Language Model in Offline Reinforcement Learning](https://arxiv.org/abs/2504.08772) <br/>
 Younghwan Lee, Tung M. Luu, Donghoon Lee, Chang D. Yoo, The International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2025. <br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2109.11196-b31b1b.svg)](https://arxiv.org/abs/2504.08772)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.08772-b31b1b.svg)](https://arxiv.org/abs/2504.08772)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)] (Comming soon!)
 
 [2024]
