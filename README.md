@@ -84,6 +84,15 @@ Trung X. Pham, Zhang Kang, Chang D. Yoo, International Conference on Machine Lea
 [![Star](https://img.shields.io/github/stars/trungpx/xmdpt.svg?style=social&label=Star)](https://github.com/trungpx/xmdpt)
 
 [2023]
+- [Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction](https://arxiv.org/abs/2308.08442) <br/>
+Eunseop Yoon*, Hee Suk Yoon*, Dhananjaya Gowda, SooHwan Eom, Daehyeok Kim, John Harvill, Heting Gao, Mark Hasegawa-Johnson, Chanwoo Kim, Chang D. Yoo, INTERSPEECH 2023 <br/>
+![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)
+![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black) (Comming soon!)
+
+- [SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval](https://arxiv.org/abs/2310.05241) <br/>
+Sunjae Yoon, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo., International Conference on Computer Vision (ICCV) 2023 <br/>
+![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)
+![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black) (Comming soon!)
 
 [2022]
 - [Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo](https://arxiv.org/abs/2203.17248) <br/>
@@ -98,15 +107,6 @@ Sunjae Yoon, Ji Woo Hong, Eunseop Yoon, DaHyun Kim, Junyeong Kim, Hee Suk Yoon, 
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/SQuiDNet)
 [![Star](https://img.shields.io/github/stars/dbstjswo505/SQuiDNet.svg?style=social&label=Star)](https://github.com/dbstjswo505/SQuiDNet)
 
-- [Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction]() <br/>
-Eunseop Yoon*, Hee Suk Yoon*, Dhananjaya Gowda, SooHwan Eom, Daehyeok Kim, John Harvill, Heting Gao, Mark Hasegawa-Johnson, Chanwoo Kim, Chang D. Yoo, INTERSPEECH 2023 <br/>
-![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)
-![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black) (Comming soon!)
-
-- [SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval]() <br/>
-Sunjae Yoon, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo., International Conference on Computer Vision (ICCV) 2023 <br/>
-![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)
-![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black) (Comming soon!)
 
 ### 🏋️‍️ SCIE 저널 실적
 
