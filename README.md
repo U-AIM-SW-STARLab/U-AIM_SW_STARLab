@@ -43,7 +43,10 @@ Younghwan Lee, Tung M. Luu, Donghoon Lee, Chang D. Yoo, The International Confer
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)] (Comming soon!)
 
 [2024]
-
+- [LI-TTA: Language Informed Test-Time Adaptation for Automatic Speech Recognition](https://arxiv.org/abs/2408.05769) <br/>
+Eunseop Yoon, Hee Suk Yoon, John Harvill, Mark Hasegawa-Johnson, Chang D. Yoo, The International Speech Communication Association (INTERSPEECH) 2024. <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2109.11196-b31b1b.svg)](https://arxiv.org/abs/2408.05769)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)] (Comming soon!)
 [2023]
 
 [2022]
