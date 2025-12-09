@@ -140,10 +140,6 @@ Thanh Nguyen*, Trung Pham*, Chaoning Zhang, Tung Luu, Thang Vu, Chang D. Yoo., I
 [[Paper](https://ieeexplore.ieee.org/document/10014996)]
 
 [2022]
-- [Utilizing Skipped Frames in Action Repeats for Improving Sample Efficiency in Reinforcement Learning](https://ieeexplore.ieee.org/document/9793636) <br/>
-Tung Luu, Thanh Nguyen, Thang Vu and Chang D. Yoo., IEEE Access 2022 <br/>
-[[Paper](https://ieeexplore.ieee.org/document/9793636)]
-
 - [Dual-scale Doppler Attention for Human Identification](https://www.mdpi.com/1424-8220/22/17/6363) <br/>
 Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Chang D. Yoo, Sensors 2022 <br/>
 [[Paper](https://www.mdpi.com/1424-8220/22/17/6363)]
