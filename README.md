@@ -10,64 +10,64 @@
 ### 📢 최우수 논문 실적
 [2025]
 - [Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models](https://arxiv.org/abs/2507.04976) <br/>
-Eunseop Yoon, Hee Suk Yoon, Mark A. Hasegawa-Johnson, Chang D. Yoo, Chang D. Yoo.  International Conference on Learning Representations (ICLR) 2025 <br/>
+Eunseop Yoon, Hee Suk Yoon, Mark A. Hasegawa-Johnson, Chang D. Yoo, Chang D. Yoo.,  International Conference on Learning Representations (ICLR) 2025 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2312.05790-b31b1b.svg)](https://arxiv.org/abs/2507.04976)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/EsYoon7/UVQA)
 [![Star](https://img.shields.io/github/stars/EsYoon7/UVQA.svg?style=social&label=Star)](https://github.com/EsYoon7/UVQA)
 
 - [MDSGen: Fast and Efficient Masked Diffusion Temporal-Aware Transformers for Open-Domain Sound Generation](https://arxiv.org/abs/2410.02130) <br/>
-Trung X. Pham, Tri Ton, Chang D. Yoo.  International Conference on Learning Representations (ICLR) 2025 <br/>
+Trung X. Pham, Tri Ton, Chang D. Yoo.,  International Conference on Learning Representations (ICLR) 2025 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2410.02130-b31b1b.svg)](https://arxiv.org/abs/2410.02130)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/triton99/MDSGen)
 [![Star](https://img.shields.io/github/stars/triton99/MDSGen.svg?style=social&label=Star)](https://github.com/triton99/MDSGen)
 
 - [ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](https://arxiv.org/abs/2503.20418) <br/>
-Ji Woo Hong, Tri Ton, Trung X. Pham, Gwanhyeong Koo, Sunjae Yoon, Chang D. Yoo.  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025 <br/>
+Ji Woo Hong, Tri Ton, Trung X. Pham, Gwanhyeong Koo, Sunjae Yoon, Chang D. Yoo.,  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2503.20418-b31b1b.svg)](https://arxiv.org/abs/2503.20418)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/jiwoohong93/ita-mdt_code)
 [![Star](https://img.shields.io/github/stars/jiwoohong93/ita-mdt_code.svg?style=social&label=Star)](https://github.com/jiwoohong93/ita-mdt_code)
 
 - [ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Preference Optimization](https://arxiv.org/abs/2507.04976) <br/>
-Hee Suk Yoon, Eunseop Yoon, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025 <br/>
+Hee Suk Yoon, Eunseop Yoon, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo.,  International Conference on Machine Learning (ICML) 2025 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2507.04976-b31b1b.svg)](https://arxiv.org/abs/2507.04976)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/hee-suk-yoon/ConfPO)
 [![Star](https://img.shields.io/github/stars/hee-suk-yoon/ConfPO.svg?style=social&label=Star)](https://github.com/hee-suk-yoon/ConfPO)
 
 - [FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields](https://arxiv.org/abs/2507.08285) <br/>
-Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025, [Spotlight (top 2.6%)] <br/>
+Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.,  International Conference on Machine Learning (ICML) 2025, [Spotlight (top 2.6%)] <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2507.08285-b31b1b.svg)](https://arxiv.org/abs/2507.08285)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/kookie12/FlowDrag)
 [![Star](https://img.shields.io/github/stars/kookie12/FlowDrag.svg?style=social&label=Star)](https://github.com/kookie12/FlowDrag)
 
 - [Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models](https://www.arxiv.org/abs/2506.12822) <br/>
-Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025 <br/>
+Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.,  International Conference on Machine Learning (ICML) 2025 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2506.12822-b31b1b.svg)](https://www.arxiv.org/abs/2506.12822)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/erlvlm)
 [![Star](https://img.shields.io/github/stars/tunglm2203/erlvlm.svg?style=social&label=Star)](https://github.com/tunglm2203/erlvlm)
 
 - [Occlusion-robust Stylization for Drawing-based 3D Animation](https://arxiv.org/abs/2508.00398) <br/>
-Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Computer Vision (ICCV) 2025 <br/>
+Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.,  International Conference on Computer Vision (ICCV) 2025 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2508.00398-b31b1b.svg)](https://arxiv.org/abs/2508.00398)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/OSF)
 [![Star](https://img.shields.io/github/stars/dbstjswo505/OSF.svg?style=social&label=Star)](https://github.com/dbstjswo505/OSF)
 
 [2024]
 - [SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation](https://arxiv.org/abs/2312.05790) <br/>
-Junghyun Lee, Gwangsu Kim, Matt Olfat, Mark Hasegawa-Johnson, Chang D. Yoo. in AAAI Conference on Artificial Intelligence (AAAI) 2024. <br/>
+Junghyun Lee, Gwangsu Kim, Matt Olfat, Mark Hasegawa-Johnson, Chang D. Yoo., in AAAI Conference on Artificial Intelligence (AAAI) 2024. <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2312.05790-b31b1b.svg)](https://arxiv.org/abs/2312.05790)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/Hyun-Ryu/simpsi)
 [![Star](https://img.shields.io/github/stars/Hyun-Ryu/simpsi.svg?style=social&label=Star)](https://github.com/Hyun-Ryu/simpsi)
 
 [2023]
 - [HEAR: Hearing Enhanced Audio Response for Video-grounded Dialogue](https://arxiv.org/abs/2312.09736) <br/>
-Sunjae Yoon, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chnag D. Yoo. Empirical Methods in Natural Language Processing (EMNLP) 2023. <br/>
+Sunjae Yoon, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chnag D. Yoo., Empirical Methods in Natural Language Processing (EMNLP) 2023. <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2312.09736-b31b1b.svg)](https://arxiv.org/abs/2312.09736)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/HEAR)
 [![Star](https://img.shields.io/github/stars/dbstjswo505/HEAR.svg?style=social&label=Star)](https://github.com/dbstjswo505/HEAR)
 
 [2022]
 - [Fast and Efficient MMD-based Fair PCA via Optimization over Stiefel Manifold](https://arxiv.org/abs/2109.11196) <br/>
-Junghyun Lee, Gwangsu Kim, Matt Olfat, Mark Hasegawa-Johnson, Chang D. Yoo. in AAAI Conference on Artificial Intelligence (AAAI) 2022. <br/>
+Junghyun Lee, Gwangsu Kim, Matt Olfat, Mark Hasegawa-Johnson, Chang D. Yoo., in AAAI Conference on Artificial Intelligence (AAAI) 2022. <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2109.11196-b31b1b.svg)](https://arxiv.org/abs/2109.11196)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/nick-jhlee/fair-manifold-pca)
 [![Star](https://img.shields.io/github/stars/nick-jhlee/fair-manifold-pca.svg?style=social&label=Star)](https://github.com/nick-jhlee/fair-manifold-pca)
@@ -141,21 +141,28 @@ Sunjae Yoon, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Y
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/CLNet)
 [![Star](https://img.shields.io/github/stars/dbstjswo505/CLNet.svg?style=social&label=Star)](https://github.com/dbstjswo505/CLNet)
 
+[2023]
+- [Scalable SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2209.08263) <br/>
+Thang Vu, Kookhoi Kim, Tung M. Luu, Thanh Nguyen, Junyeong Kim, Chang D. Yoo., IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2023, [IF=23.6] <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2209.08263-b31b1b.svg)](https://arxiv.org/abs/2209.08263)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/thangvubk/SoftGroup)
+[![Star](https://img.shields.io/github/stars/thangvubk/SoftGroup.svg?style=social&label=Star)](https://github.com/thangvubk/SoftGroup)
+
 [2022]
 - [Dual-scale Doppler Attention for Human Identification](https://www.mdpi.com/1424-8220/22/17/6363) <br/>
-Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Chang D. Yoo, Sensors 2022 <br/>
+Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Chang D. Yoo., Sensors 2022 <br/>
 [[Paper](https://www.mdpi.com/1424-8220/22/17/6363)]
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/DSDA)
 [![Star](https://img.shields.io/github/stars/dbstjswo505/DSDA.svg?style=social&label=Star)](https://github.com/dbstjswo505/DSDA)
 
 - [LAD: A Hybrid Deep Learning System for Benign Paroxysmal Positional Vertigo Disorders Diagnostic](https://arxiv.org/abs/2210.08282) <br/>
-Trung Xuan Pham, Jin Woong Choi, Rusty John Lloyd Mina, Thanh Nguyen, Sultan Rizky Madjid, and Chang D. Yoo, IEEE Access 2022 <br/>
+Trung Xuan Pham, Jin Woong Choi, Rusty John Lloyd Mina, Thanh Nguyen, Sultan Rizky Madjid, and Chang D. Yoo., IEEE Access 2022 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2210.08282-b31b1b.svg)](https://arxiv.org/abs/2210.08282)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/trungpx/lad)
 [![Star](https://img.shields.io/github/stars/trungpx/lad.svg?style=social&label=Star)](https://github.com/trungpx/lad)
 
 - [Utilizing Skipped Frames in Action Repeats for Improving Sample Efficiency in Reinforcement Learning](https://ieeexplore.ieee.org/document/9793636) <br/>
-Tung M. Luu; Thanh Nguyen; Thang Vu; Chang D. Yoo. IEEE Access 2022 <br/>
+Tung M. Luu; Thanh Nguyen; Thang Vu; Chang D. Yoo., IEEE Access 2022 <br/>
 [[Paper](https://ieeexplore.ieee.org/document/9793636)]
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/lsf_idm)
 [![Star](https://img.shields.io/github/stars/tunglm2203/lsf_idm.svg?style=social&label=Star)](https://github.com/tunglm2203/lsf_idm)
@@ -163,58 +170,58 @@ Tung M. Luu; Thanh Nguyen; Thang Vu; Chang D. Yoo. IEEE Access 2022 <br/>
 ### ‍️🏷️ 국제 학술 대회 실적
 [2024]
 - [Progressive Fourier Neural Representation for Sequential Video Compilation](https://arxiv.org/abs/2306.11305) <br/>
-Haeyong Kang, Jaehong Yoon, DaHyun Kim, Sung Ju Hwang, Chang D Yoo, International Conference on Learning Representations (ICLR) 2024, <br/>
+Haeyong Kang, Jaehong Yoon, DaHyun Kim, Sung Ju Hwang, Chang D Yoo., International Conference on Learning Representations (ICLR) 2024, <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2306.11305-b31b1b.svg)](https://arxiv.org/abs/2306.11305)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/ihaeyong/PFNR)
 [![Star](https://img.shields.io/github/stars/ihaeyong/PFNR.svg?style=social&label=Star)](https://github.com/ihaeyong/PFNR)
 
 - [Querying Easily Flip-flopped Samples for Deep Active Learning](https://arxiv.org/abs/2401.09787) <br/>
-Seong Jin Cho, Gwangsu Kim, Junghyun Lee, Jinwoo Shin, Chang D. Yoo, International Conference on Learning Representations (ICLR) 2024, <br/>
+Seong Jin Cho, Gwangsu Kim, Junghyun Lee, Jinwoo Shin, Chang D. Yoo., International Conference on Learning Representations (ICLR) 2024, <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2401.09787-b31b1b.svg)](https://arxiv.org/abs/2401.09787)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/ipcng00/LDM-S)
 [![Star](https://img.shields.io/github/stars/ipcng00/LDM-S.svg?style=social&label=Star)](https://github.com/ipcng00/LDM-S)
 
 - [Physics Informed Distillation for Diffusion Models](https://arxiv.org/abs/2411.08378) <br/>
-Joshua Tian Jin Tee, Kang Zhang, Hee Suk Yoon, Dhananjaya Nagaraja Gowda, Chanwoo Kim, Chang D. Yoo, Transactions on Machine Learning Research (TMLR) 2024, <br/>
+Joshua Tian Jin Tee, Kang Zhang, Hee Suk Yoon, Dhananjaya Nagaraja Gowda, Chanwoo Kim, Chang D. Yoo., Transactions on Machine Learning Research (TMLR) 2024, <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2411.08378-b31b1b.svg)](https://arxiv.org/abs/2401.09787)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/pantheon5100/pid_diffusion)
 [![Star](https://img.shields.io/github/stars/pantheon5100/pid_diffusion.svg?style=social&label=Star)](https://github.com/pantheon5100/pid_diffusion)
 
 [2023]
 - [On the Soft-Subnetwork for Few-Shot Class Incremental Learning](https://arxiv.org/abs/2209.07529) <br/>
-Seong Jin Cho, Gwangsu Kim, Junghyun Lee, Jinwoo Shin, Chang D. Yoo, International Conference on Learning Representations (ICLR) 2023, <br/>
+Seong Jin Cho, Gwangsu Kim, Junghyun Lee, Jinwoo Shin, Chang D. Yoo., International Conference on Learning Representations (ICLR) 2023, <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2209.07529-b31b1b.svg)](https://arxiv.org/abs/2209.07529)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/ihaeyong/SoftNet-FSCIL)
 [![Star](https://img.shields.io/github/stars/ihaeyong/SoftNet-FSCIL.svg?style=social&label=Star)](https://github.com/ihaeyong/SoftNet-FSCIL)
 
 - [ESD: Expected Squared Difference as a Tuning-Free Trainable Calibration Measure](https://arxiv.org/abs/2303.02472) <br/>
-Hee Suk Yoon, Joshua Tian Jin Tee, Eunseop Yoon, Sunjae Yoon, Gwangsu Kim, Yingzhen Li, Chang D. Yoo, International Conference on Learning Representations (ICLR) 2023, <br/>
+Hee Suk Yoon, Joshua Tian Jin Tee, Eunseop Yoon, Sunjae Yoon, Gwangsu Kim, Yingzhen Li, Chang D. Yoo., International Conference on Learning Representations (ICLR) 2023, <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2303.02472-b31b1b.svg)](https://arxiv.org/abs/2303.02472)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/hee-suk-yoon/ESD)
 [![Star](https://img.shields.io/github/stars/hee-suk-yoon/ESD.svg?style=social&label=Star)](https://github.com/hee-suk-yoon/ESD)
 
 [2022]
 - [Forget-free Continual Learning with Winning Subnetworks](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf) <br/>
-Haeyong Kang, Rusty John Lloyd Mina, Sultan Rizky Hikmawan Madjid, Jaehong Yoon, Mark Hasegawa-Johnson, Sung Ju Hwang, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2022 <br/>
+Haeyong Kang, Rusty John Lloyd Mina, Sultan Rizky Hikmawan Madjid, Jaehong Yoon, Mark Hasegawa-Johnson, Sung Ju Hwang, Chang D. Yoo.,  International Conference on Machine Learning (ICML) 2022 <br/>
 [[Paper](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)]
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/ihaeyong/WSN)
 [![Star](https://img.shields.io/github/stars/ihaeyong/WSN.svg?style=social&label=Star)](https://github.com/ihaeyong/WSN)
 
 [2021]
 - [CCFDM: Sample-efficient Reinforcement Learning Representation Learning with Curiosity Contrastive Forward Dynamics Model](https://arxiv.org/abs/2103.08255) <br/>
-Thanh Nguyen, Tung M. Luu, Thang Vu, Chang D. Yoo.  International Conference on Intelligent Robots and Systems (IROS) 2021 <br/>
+Thanh Nguyen, Tung M. Luu, Thang Vu, Chang D. Yoo.,  International Conference on Intelligent Robots and Systems (IROS) 2021 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2103.08255-b31b1b.svg)](https://arxiv.org/abs/2103.08255)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/thanhkaist/CCFDM1)
 [![Star](https://img.shields.io/github/stars/thanhkaist/CCFDM1.svg?style=social&label=Star)](https://github.com/thanhkaist/CCFDM1)
 
 - [Weakly-Supervised Moment Retrieval Network for Video Corpus Moment Retrieval](https://ieeexplore.ieee.org/document/9506218) <br/>
-Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Kookhoi Kim, Chang D. Yoo.  International Conference on Image Processing (ICIP) 2021 <br/>
+Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Kookhoi Kim, Chang D. Yoo.,  International Conference on Image Processing (ICIP) 2021 <br/>
 [[Paper](https://ieeexplore.ieee.org/document/9506218)]
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/WMRN)
 [![Star](https://img.shields.io/github/stars/dbstjswo505/WMRN.svg?style=social&label=Star)](https://github.com/dbstjswo505/WMRN)
 
 - [SphereRPN: Learning Spheres for High-Quality Region Proposals on 3D Point Clouds Object Detection](https://ieeexplore.ieee.org/document/9506249) <br/>
-Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Kookhoi Kim, Chang D. Yoo.  International Conference on Image Processing (ICIP) 2021 <br/>
+Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Kookhoi Kim, Chang D. Yoo.,  International Conference on Image Processing (ICIP) 2021 <br/>
 [[Paper](https://ieeexplore.ieee.org/document/9506249)]
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/thangvubk/SphereRPN)
 [![Star](https://img.shields.io/github/stars/thangvubk/SphereRPN.svg?style=social&label=Star)](https://github.com/thangvubk/SphereRPN)
