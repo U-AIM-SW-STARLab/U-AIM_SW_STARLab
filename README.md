@@ -8,19 +8,20 @@
 
 
 ### 📢 최우수 논문 실적
-[1. Fast and Efficient MMD-based Fair PCA via Optimization over Stiefel Manifold](https://arxiv.org/abs/2109.11196) <br/>
+[2022]
+- [Fast and Efficient MMD-based Fair PCA via Optimization over Stiefel Manifold](https://arxiv.org/abs/2109.11196) <br/>
 Junghyun Lee, Gwangsu Kim, Matt Olfat, Mark Hasegawa-Johnson, Chang D. Yoo. in AAAI Conference on Artificial Intelligence (AAAI) 2022. <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2109.11196-b31b1b.svg)](https://arxiv.org/abs/2109.11196)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/nick-jhlee/fair-manifold-pca)
 [![Star](https://img.shields.io/github/stars/nick-jhlee/fair-manifold-pca.svg?style=social&label=Star)](https://github.com/nick-jhlee/fair-manifold-pca)
 
-[2. SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2203.01509) <br/>
+- [SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2203.01509) <br/>
 Thang Vu, Kookhoi Kim, Tung Luu, Thanh Nguyen, Chang D. Yoo., Computer Vision and Pattern Recognition (CVPR) 2022, [Oral presentation (top 4%)] <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2203.01509-b31b1b.svg)](https://arxiv.org/abs/2203.01509)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/thangvubk/SoftGroup)
 [![Star](https://img.shields.io/github/stars/thangvubk/SoftGroup.svg?style=social&label=Star)](https://github.com/thangvubk/SoftGroup)
 
-[3. Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/abs/2212.05765) <br/>
+- [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/abs/2212.05765) <br/>
 Sunjae Yoon, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim and Chang D. Yoo, The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2022. (Long Paper) <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2212.05765-b31b1b.svg)](https://arxiv.org/abs/2212.05765)
 
@@ -36,24 +37,24 @@ Tung M. Luu, Donghoon Lee, Younghwan Lee, Chang D. Yoo, The IEEE/RSJ Internation
 [2023]
 
 [2022]
-[1. Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo](https://arxiv.org/abs/2203.17248) <br/>
+- [Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo](https://arxiv.org/abs/2203.17248) <br/>
 Chaoning Zhang*, Kang Zhang*, Trung Pham*, Axi Niu, Zhinan Qiao, Chang D. Yoo, In So Kweon. Computer Vision and Pattern Recognition (CVPR) 2022 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2203.17248-b31b1b.svg)](https://arxiv.org/abs/2203.17248) 
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/ChaoningZhang/Dual-temperature)
 [![Star](https://img.shields.io/github/stars/ChaoningZhang/Dual-temperature.svg?style=social&label=Star)](https://github.com/ChaoningZhang/Dual-temperature)
 
-[2. Selective Query-guided Debiasing for Video Corpus Moment Retrieval](https://arxiv.org/abs/2210.08714) <br/>
+- [Selective Query-guided Debiasing for Video Corpus Moment Retrieval](https://arxiv.org/abs/2210.08714) <br/>
 Sunjae Yoon, Ji Woo Hong, Eunseop Yoon, DaHyun Kim, Junyeong Kim, Hee Suk Yoon, Chang D. Yoo., European Conference on Computer Vision (ECCV) 2022 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2210.08714-b31b1b.svg)](https://arxiv.org/abs/2210.08714) 
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/SQuiDNet)
 [![Star](https://img.shields.io/github/stars/dbstjswo505/SQuiDNet.svg?style=social&label=Star)](https://github.com/dbstjswo505/SQuiDNet)
 
-[3. Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction]() <br/>
+- [Mitigating the Exposure Bias in Sentence-Level Grapheme-to-Phoneme (G2P) Transduction]() <br/>
 Eunseop Yoon*, Hee Suk Yoon*, Dhananjaya Gowda, SooHwan Eom, Daehyeok Kim, John Harvill, Heting Gao, Mark Hasegawa-Johnson, Chanwoo Kim, Chang D. Yoo, INTERSPEECH 2023 <br/>
 ![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)
 ![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black) (Comming soon!)
 
-[4. SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval]() <br/>
+- [SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval]() <br/>
 Sunjae Yoon, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo., International Conference on Computer Vision (ICCV) 2023 <br/>
 ![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)
 ![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black) (Comming soon!)
