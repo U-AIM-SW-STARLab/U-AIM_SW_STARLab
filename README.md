@@ -189,6 +189,12 @@ Hee Suk Yoon, Joshua Tian Jin Tee, Eunseop Yoon, Sunjae Yoon, Gwangsu Kim, Yingz
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/hee-suk-yoon/ESD)
 [![Star](https://img.shields.io/github/stars/hee-suk-yoon/ESD.svg?style=social&label=Star)](https://github.com/hee-suk-yoon/ESD)
 
+[2022]
+- [Forget-free Continual Learning with Winning Subnetworks](https://www.arxiv.org/abs/2506.12822) <br/>
+Gwanhyeong Koo, Sunjae Yoon, Younghwan Lee, Ji Woo Hong, Chang D. Yoo.  International Conference on Machine Learning (ICML) 2025 <br/>
+[[Paper](https://proceedings.mlr.press/v162/kang22b/kang22b.pdf)]
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/erlvlm)
+[![Star](https://img.shields.io/github/stars/tunglm2203/erlvlm.svg?style=social&label=Star)](https://github.com/tunglm2203/erlvlm)
 
 
 ### ‍️⚙️ 기타 소프트웨어
