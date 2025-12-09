@@ -109,33 +109,38 @@ Sunjae Yoon, Ji Woo Hong, Eunseop Yoon, DaHyun Kim, Junyeong Kim, Hee Suk Yoon, 
 
 
 ### 🏋️‍️ SCIE 저널 실적
+[2025]
 
-[1. Utilizing Skipped Frames in Action Repeats for Improving Sample Efficiency in Reinforcement Learning](https://ieeexplore.ieee.org/document/9793636) <br/>
+[2024]
+
+[2023]
+- [DimCL: Dimensional Contrastive Learning For Improving Self-Supervised Learning](https://ieeexplore.ieee.org/document/10014996) <br/>
+Thanh Nguyen*, Trung Pham*, Chaoning Zhang, Tung Luu, Thang Vu, Chang D. Yoo., IEEE Access 2023 <br/>
+[[Paper](https://ieeexplore.ieee.org/document/10014996)]
+
+[2022]
+- [Utilizing Skipped Frames in Action Repeats for Improving Sample Efficiency in Reinforcement Learning](https://ieeexplore.ieee.org/document/9793636) <br/>
 Tung Luu, Thanh Nguyen, Thang Vu and Chang D. Yoo., IEEE Access 2022 <br/>
 [[Paper](https://ieeexplore.ieee.org/document/9793636)]
 
-[2. Dual-scale Doppler Attention for Human Identification](https://www.mdpi.com/1424-8220/22/17/6363) <br/>
+- [Dual-scale Doppler Attention for Human Identification](https://www.mdpi.com/1424-8220/22/17/6363) <br/>
 Sunjae Yoon, Dahyun Kim, Ji Woo Hong, Junyeong Kim, Chang D. Yoo, Sensors 2022 <br/>
 [[Paper](https://www.mdpi.com/1424-8220/22/17/6363)]
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/DSDA)
 [![Star](https://img.shields.io/github/stars/dbstjswo505/DSDA.svg?style=social&label=Star)](https://github.com/dbstjswo505/DSDA)
 
-[3. Cascaded MPN: Cascaded Moment Proposal Network for Video Corpus Moment Retrieval](https://ieeexplore.ieee.org/document/9795270) <br/>
+- [Cascaded MPN: Cascaded Moment Proposal Network for Video Corpus Moment Retrieval](https://ieeexplore.ieee.org/document/9795270) <br/>
 Sunjae Yoon, Dahyun Kim, Junyeong Kim and Chang D. Yoo., IEEE Access 2022 <br/>
 [[Paper](https://ieeexplore.ieee.org/document/9795270)]
 
-[4. LAD: A Hybrid Deep Learning System for Benign Paroxysmal Positional Vertigo Disorders Diagnostic](https://arxiv.org/abs/2210.08282) <br/>
+- [LAD: A Hybrid Deep Learning System for Benign Paroxysmal Positional Vertigo Disorders Diagnostic](https://arxiv.org/abs/2210.08282) <br/>
 Trung Xuan Pham, Jin Woong Choi, Rusty John Lloyd Mina, Thanh Nguyen, Sultan Rizky Madjid, and Chang D. Yoo, IEEE Access 2022 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2210.08282-b31b1b.svg)](https://arxiv.org/abs/2210.08282)
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/trungpx/lad)
 [![Star](https://img.shields.io/github/stars/trungpx/lad.svg?style=social&label=Star)](https://github.com/trungpx/lad)
 
-[5. Survival Analysis of COVID-19 Patients With Symptoms Information by Machine Learning Algorithms](https://ieeexplore.ieee.org/document/9794670) <br/>
+- [Survival Analysis of COVID-19 Patients With Symptoms Information by Machine Learning Algorithms](https://ieeexplore.ieee.org/document/9794670) <br/>
 Gwangsu Kim, Chang D. Yoo, Seong J. Yang., IEEE Access 2022 <br/>
 [[Paper](https://ieeexplore.ieee.org/document/9794670)]
 [[Dataset](https://ieee-dataport.org/documents/survcovid19)]
-
-[6. DimCL: Dimensional Contrastive Learning For Improving Self-Supervised Learning](https://ieeexplore.ieee.org/document/10014996) <br/>
-Thanh Nguyen*, Trung Pham*, Chaoning Zhang, Tung Luu, Thang Vu, Chang D. Yoo., IEEE Access 2023 <br/>
-[[Paper](https://ieeexplore.ieee.org/document/10014996)]
 
