@@ -6,7 +6,7 @@
 - [우수 논문 실적](#우수-논문-실적)
 - [SCIE 저널 실적](#SCIE-저널-실적)
 - [국제 학술 대회 실적](#국제-학술-대회-실적)
-
+- [기타 소프트웨어](#기타-소프트웨어)
 ### 📢 최우수 논문 실적
 [2025]
 - [Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models](https://arxiv.org/abs/2507.04976) <br/>
@@ -131,11 +131,8 @@ Sunjae Yoon, Ji Woo Hong, Eunseop Yoon, DaHyun Kim, Junyeong Kim, Hee Suk Yoon, 
 - [Causal Localization Network for Radar Human Localization With Micro-Doppler Signature](https://ieeexplore.ieee.org/document/10387441) <br/>
 Sunjae Yoon, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Yoo., IEEE Access 2024 <br/>
 [[Paper](https://ieeexplore.ieee.org/document/10387441)]
-
-[2023]
-- [DimCL: Dimensional Contrastive Learning For Improving Self-Supervised Learning](https://ieeexplore.ieee.org/document/10014996) <br/>
-Thanh Nguyen*, Trung Pham*, Chaoning Zhang, Tung Luu, Thang Vu, Chang D. Yoo., IEEE Access 2023 <br/>
-[[Paper](https://ieeexplore.ieee.org/document/10014996)]
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/CLNet)
+[![Star](https://img.shields.io/github/stars/dbstjswo505/CLNet.svg?style=social&label=Star)](https://github.com/dbstjswo505/CLNet)
 
 [2022]
 - [Dual-scale Doppler Attention for Human Identification](https://www.mdpi.com/1424-8220/22/17/6363) <br/>
@@ -172,4 +169,28 @@ Joshua Tian Jin Tee, Kang Zhang, Hee Suk Yoon, Dhananjaya Nagaraja Gowda, Chanwo
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/pantheon5100/pid_diffusion)
 [![Star](https://img.shields.io/github/stars/pantheon5100/pid_diffusion.svg?style=social&label=Star)](https://github.com/pantheon5100/pid_diffusion)
 
+[2023]
+- [On the Soft-Subnetwork for Few-Shot Class Incremental Learning](https://arxiv.org/abs/2209.07529) <br/>
+Seong Jin Cho, Gwangsu Kim, Junghyun Lee, Jinwoo Shin, Chang D. Yoo, International Conference on Learning Representations (ICLR) 2023, <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2209.07529-b31b1b.svg)](https://arxiv.org/abs/2209.07529)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/ihaeyong/SoftNet-FSCIL)
+[![Star](https://img.shields.io/github/stars/ihaeyong/SoftNet-FSCIL.svg?style=social&label=Star)](https://github.com/ihaeyong/SoftNet-FSCIL)
 
+- [ESD: Expected Squared Difference as a Tuning-Free Trainable Calibration Measure](https://arxiv.org/abs/2303.02472) <br/>
+Hee Suk Yoon, Joshua Tian Jin Tee, Eunseop Yoon, Sunjae Yoon, Gwangsu Kim, Yingzhen Li, Chang D. Yoo, International Conference on Learning Representations (ICLR) 2023, <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2303.02472-b31b1b.svg)](https://arxiv.org/abs/2303.02472)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/hee-suk-yoon/ESD)
+[![Star](https://img.shields.io/github/stars/hee-suk-yoon/ESD.svg?style=social&label=Star)](https://github.com/hee-suk-yoon/ESD)
+
+- [Scene Complexity Aware Network for Weakly-Supervised Video Moment RetrievaL](https://arxiv.org/abs/2310.05241) <br/>
+Sunjae Yoon, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo.  International Conference on Computer Vision (ICCV) 2023 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2310.05241-b31b1b.svg)](https://arxiv.org/abs/2310.05241)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/dbstjswo505/SCANet)
+[![Star](https://img.shields.io/github/stars/dbstjswo505/SCANet.svg?style=social&label=Star)](https://github.com/dbstjswo505/SCANet)
+
+
+### ‍️⚙️ 기타 소프트웨어
+[2023]
+- [비디오 기반 인공지능 대화 시스템(StarLab-Dialogue-System)] <br/>
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/U-AIM-SW-STARLab/StarLab-Dialogue-System)
+[![Star](https://img.shields.io/github/stars/U-AIM-SW-STARLab/StarLab-Dialogue-System.svg?style=social&label=Star)](https://github.com/U-AIM-SW-STARLab/StarLab-Dialogue-System)
