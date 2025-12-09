@@ -25,6 +25,17 @@ Sunjae Yoon, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim and Chang D. Yoo, The Conf
 [![arXiv](https://img.shields.io/badge/arXiv-2212.05765-b31b1b.svg)](https://arxiv.org/abs/2212.05765)
 
 ### 📝  우수 논문 실적
+[2025]
+- [Policy Learning from Large Vision-Language Model Feedback without Reward Modeling](https://arxiv.org/abs/2507.23391) <br/>
+Tung M. Luu, Donghoon Lee, Younghwan Lee, Chang D. Yoo, The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025. <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2109.11196-b31b1b.svg)](https://arxiv.org/abs/2507.23391)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)] (Comming soon!)
+
+[2024]
+
+[2023]
+
+[2022]
 [1. Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo](https://arxiv.org/abs/2203.17248) <br/>
 Chaoning Zhang*, Kang Zhang*, Trung Pham*, Axi Niu, Zhinan Qiao, Chang D. Yoo, In So Kweon. Computer Vision and Pattern Recognition (CVPR) 2022 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2203.17248-b31b1b.svg)](https://arxiv.org/abs/2203.17248) 
