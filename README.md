@@ -9,6 +9,12 @@
 - [기타 소프트웨어](#기타-소프트웨어)
 ### 📢 최우수 논문 실적
 [2026]
+- [Logit-Conditioned Diffusion Decoding for Frozen Discrete-Token VLMs](https://arxiv.org/abs/2603.13389) <br/>
+Ji Woo Hong, Gwanhyeong Koo, Hee Suk Yoon, Eunseop Yoon, SooHwan Eom, Qi Dai, Chong Luo, Chang D. Yoo., Neural Information Processing Systems (NeurIPS) 2026 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2603.13389-b31b1b.svg)](https://arxiv.org/abs/2603.13389)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/jiwoohong93/dcdd_code)
+[![Star](https://img.shields.io/github/stars/jiwoohong93/dcdd_code.svg?style=social&label=Star)](https://github.com/jiwoohong93/dcdd_code)
+
 - [Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning](https://arxiv.org/abs/2606.10613) <br/>
 Thanh Xuan Nguyen, Tri Ton, Hongbin Choe, Tung Minh Luu, Chang D. Yoo., International Conference on Machine Learning (ICML) 2026 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2606.10613-b31b1b.svg)](https://arxiv.org/abs/2606.10613)
