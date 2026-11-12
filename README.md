@@ -15,6 +15,12 @@ Ji Woo Hong, Gwanhyeong Koo, Hee Suk Yoon, Eunseop Yoon, SooHwan Eom, Qi Dai, Ch
 [![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/jiwoohong93/dcdd_code)
 [![Star](https://img.shields.io/github/stars/jiwoohong93/dcdd_code.svg?style=social&label=Star)](https://github.com/jiwoohong93/dcdd_code)
 
+- [A Hidden Semantic Bottleneck in Conditional Embeddings of Diffusion Transformers](https://arxiv.org/abs/2602.21596) <br/>
+Trung X. Pham, Kang Zhang, Ji Woo Hong, Chang D. Yoo., International Conference on Learning Representations (ICLR) 2026 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2602.21596-b31b1b.svg)](https://arxiv.org/abs/2602.21596)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/trungpx/HiddenDiT)
+[![Star](https://img.shields.io/github/stars/trungpx/HiddenDiT.svg?style=social&label=Star)](https://github.com/trungpx/HiddenDiT)
+
 - [Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning](https://arxiv.org/abs/2606.10613) <br/>
 Thanh Xuan Nguyen, Tri Ton, Hongbin Choe, Tung Minh Luu, Chang D. Yoo., International Conference on Machine Learning (ICML) 2026 <br/>
 [![arXiv](https://img.shields.io/badge/arXiv-2606.10613-b31b1b.svg)](https://arxiv.org/abs/2606.10613)
