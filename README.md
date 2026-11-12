@@ -8,6 +8,49 @@
 - [국제 학술 대회 실적](#국제-학술-대회-실적)
 - [기타 소프트웨어](#기타-소프트웨어)
 ### 📢 최우수 논문 실적
+[2026]
+- [Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning](https://arxiv.org/abs/2606.10613) <br/>
+Thanh Xuan Nguyen, Tri Ton, Hongbin Choe, Tung Minh Luu, Chang D. Yoo., International Conference on Machine Learning (ICML) 2026 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2606.10613-b31b1b.svg)](https://arxiv.org/abs/2606.10613)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/thanhkaist/BFQ)
+[![Star](https://img.shields.io/github/stars/thanhkaist/BFQ.svg?style=social&label=Star)](https://github.com/thanhkaist/BFQ)
+
+- [Video-Based Optimal Transport for Feedback-Efficient Offline Preference-Based Reinforcement Learning](https://arxiv.org/abs/2606.16856) <br/>
+Tung Minh Luu, Hwanhee Kim, Younghwan Lee, Chang D. Yoo., International Conference on Machine Learning (ICML) 2026, [Oral (top0.7%)] <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2606.16856-b31b1b.svg)](https://arxiv.org/abs/2606.16856)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/votp)
+[![Star](https://img.shields.io/github/stars/tunglm2203/votp.svg?style=social&label=Star)](https://github.com/tunglm2203/votp)
+
+- [GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting](https://arxiv.org/abs/2607.00595) <br/>
+Siwoo Lim, Sunjae Yoon, Gwanhyeong Koo, Chang D. Yoo., International Conference on Machine Learning (ICML) 2026 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2607.00595-b31b1b.svg)](https://arxiv.org/abs/2607.00595)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/siw00-lim/GADA)
+[![Star](https://img.shields.io/github/stars/siw00-lim/GADA.svg?style=social&label=Star)](https://github.com/siw00-lim/GADA)
+
+- [InSpace: Structure-Aware 3D Indoor Scene Generation from a Single 360° Image](https://arxiv.org/abs/2607.03990) <br/>
+Gwanhyeong Koo, Hyunsu Kim, Youngji Kim, Taejae Lee, Siwoo Lim, Sunjae Yoon, Suyong Yeon, Chang D. Yoo., European Conference on Computer Vision (ECCV) 2026, [Spotlight/Oral (top 1.57%)] <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2607.03990-b31b1b.svg)](https://arxiv.org/abs/2607.03990)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/naver/inspace)
+[![Star](https://img.shields.io/github/stars/naver/inspace.svg?style=social&label=Star)](https://github.com/naver/inspace)
+
+- [TanGO: Training-Free 3D Editing via Tangent-Space Guidance and Optimization](https://arxiv.org/abs/2607.14927) <br/>
+Siwoo Lim, Sunjae Yoon, Gwanhyeong Koo, Hyeonseo Yun, Chang D. Yoo., European Conference on Computer Vision (ECCV) 2026 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2607.14927-b31b1b.svg)](https://arxiv.org/abs/2607.14927)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/siw00-lim/TanGO)
+[![Star](https://img.shields.io/github/stars/siw00-lim/TanGO.svg?style=social&label=Star)](https://github.com/siw00-lim/TanGO)
+
+- [SPECSIA: Stylization Dataset for Novel-View Enhancement in Drawing-based 3D Animation](https://arxiv.org/abs/2607.00525) <br/>
+Kyuwon Kim, Sunjae Yoon, Chang D. Yoo., European Conference on Computer Vision (ECCV) 2026 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2607.00525-b31b1b.svg)](https://arxiv.org/abs/2607.00525)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/rbdnjs7830/SPECSIA_release)
+[![Star](https://img.shields.io/github/stars/rbdnjs7830/SPECSIA_release.svg?style=social&label=Star)](https://github.com/rbdnjs7830/SPECSIA_release)
+
+- [Token-level Response-visual Attention Guidance for Multimodal LLMs Knowledge Distillation](https://arxiv.org/abs/2607.02593) <br/>
+Jaehyun Jang, Eunseop Yoon, Hee Suk Yoon, SooHwan Eom, Mark A. Hasegawa-Johnson, Chang D. Yoo., European Conference on Computer Vision (ECCV) 2026 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2607.02593-b31b1b.svg)](https://arxiv.org/abs/2607.02593)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/jhjangjh/TRAG)
+[![Star](https://img.shields.io/github/stars/jhjangjh/TRAG.svg?style=social&label=Star)](https://github.com/jhjangjh/TRAG)
+
 [2025]
 - [Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models](https://arxiv.org/abs/2507.04976) <br/>
 Eunseop Yoon, Hee Suk Yoon, Mark A. Hasegawa-Johnson, Chang D. Yoo, Chang D. Yoo.,  International Conference on Learning Representations (ICLR) 2025 <br/>
@@ -80,6 +123,19 @@ Thang Vu, Kookhoi Kim, Tung Luu, Thanh Nguyen, Chang D. Yoo., Computer Vision an
 
 
 ### 📝  우수 논문 실적
+[2026]
+- [Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning](https://arxiv.org/abs/2606.20266) <br/>
+SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Mark Hasegawa-Johnson, Chang D. Yoo., Interspeech 2026, [Oral] <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2606.20266-b31b1b.svg)](https://arxiv.org/abs/2606.20266)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/EomSooHwan/RTFree-F5)
+[![Star](https://img.shields.io/github/stars/EomSooHwan/RTFree-F5.svg?style=social&label=Star)](https://github.com/EomSooHwan/RTFree-F5)
+
+- [Progress-Guided Preference Generation for Aligning Generative Control Policies](https://arxiv.org/abs/2610.25692) <br/>
+Tung M. Luu, Tri Ton, Minh Duc Nguyen, Xuan Thanh Nguyen, Nguyen Gia Binh, Quang Tan Nguyen, Vu N. Duong, Daniel Sonntag, Duy Minh Ho Nguyen, Vien Anh Ngo, Chang D. Yoo., Conference on Robot Learning (CoRL) 2026 <br/>
+[![arXiv](https://img.shields.io/badge/arXiv-2610.25692-b31b1b.svg)](https://arxiv.org/abs/2610.25692)
+[![github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)](https://github.com/tunglm2203/pgpg)
+[![Star](https://img.shields.io/github/stars/tunglm2203/pgpg.svg?style=social&label=Star)](https://github.com/tunglm2203/pgpg)
+
 [2025]
 - [Policy Learning from Large Vision-Language Model Feedback without Reward Modeling](https://arxiv.org/abs/2507.23391) <br/>
 Tung M. Luu, Donghoon Lee, Younghwan Lee, Chang D. Yoo, The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025. <br/>
